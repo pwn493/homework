@@ -1,0 +1,88 @@
+Homework(1)
+Homework1()
+R/Homework1()
+R/Homework1.R
+ls
+source("R/Homework1")
+source("Homework1")
+source("Homework1.R")
+help source
+help(source)
+source("Homework1.R", echo=T)
+help(corr)
+help(cor)
+cor(designed)
+designed
+dref <- designed
+dref
+dref$cond <- NULL
+dref
+cor(dref)
+source("Homework1.R", echo=T)
+source(Homework3, echo=T)
+source("Homework3", echo=T)
+source("Homework3.R", echo=T)
+naming(endo)
+names(endo)
+endo$age
+mean(endo$age)
+mean(endo)
+trendo = endo$pid = null
+trendo = endo$[pid = null]
+endo$pid <- null
+endo$pid <- NULL
+endo
+means = colMeans(endo)
+means
+sterr(endo)
+endo - mean.endo
+ones
+ones(1,1)
+matrix(1,5,1)
+means' * matrix(1,5,1)
+;
+s
+dkjflsd
+lsdkfja
+z;
+;
+;;;;;;
+jdfslakfjsd
+means * means
+slkfjdl
+source("Homework5.R", echo = T)
+describe(wm)
+source("Homework5.R", echo = T)
+describe(wm)
+source("Homework5.R", echo = T)
+wm
+summary(wm)
+wm <- read.table("DAA.04.TXT", header = T)
+wm
+describe.by(wm, wm$training)
+library(psych)
+describe.by(wm, wm$training)
+wm.sp = subset(wm, wm$training = "SP")
+source("Homework5.R", echo = T)
+d.ct
+pooled.sd
+wm.wm.out[4,4]
+wm.sp.out[4,4]
+source("Homework5.R", echo = T)
+source("Lecture17.R", echo=T)
+instal.packages("car")
+install.packages("car")
+source("Lecture17.R", echo=T)
+source("Lecture17.R", echo=T)
+e1srwm
+e1sr
+e1sr$SR
+e1sr$condition
+e1sr$SR[condition=="WM"]
+e1sr$SR[cond=="WM"]
+e1sr$SR[task=="WM"]
+e1sr$SR[e1sr$condition=="WM"]
+source("Lecture17.R", echo=T)
+source("Lecture17.R", echo=T)
+source("Lecture17.R", echo=T)
+source("Lecture17.R", echo=T)
